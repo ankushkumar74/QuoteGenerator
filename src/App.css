@@ -1,0 +1,36 @@
+.App {
+border-radius: 0 10% 0 10%;
+  background-color: whitesmoke;
+  position: fixed;
+  width: 40%;
+  text-align: center;
+  top: 25%;
+  left: 50%;
+  padding: 20px;
+  transform: translate(-50%, 0);
+  box-shadow: 5px 5px 5px grey;
+  
+}
+
+.btn {
+  background-color:grey;
+  color: white;
+  border-radius: 8px;
+  padding: 10px 20px ;
+  box-shadow: 3px 3px 5px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
